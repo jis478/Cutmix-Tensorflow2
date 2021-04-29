@@ -1,15 +1,16 @@
 
-# Cutmix implemented in the Tensorflow 2.x
+# Cutmix implemented in the Tensorflow 2
 
-#### This is a tensorflow 2.x version of CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features 
+#### This is a tensorflow 2 version of CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features 
 
 ## Issue history
-- (2020.7.6) I've raised an issue on a possibe Saved_Model API bug, and it is under investigation by the Tensorflow team.    (https://github.com/tensorflow/tensorflow/issues/41045) 
+-  Recognized as a third-party implementation by the original author. (https://github.com/clovaai/CutMix-PyTorch)
 - (2020.8.11) Saved_Model has been replaced with Checkpoint due to the above unresolved investigation.
+- (2020.7.6) I've raised an issue on a possibe Saved_Model API bug, and it is under investigation by the Tensorflow team.    (https://github.com/tensorflow/tensorflow/issues/41045) 
 
 
 ## Implementation
-This code has followed the official tensorflow 2.0 coding guideline (https://www.tensorflow.org/alpha/guide/effective_tf2). 
+This code has followed the official tensorflow 2 coding guideline (https://www.tensorflow.org/alpha/guide/effective_tf2). 
 
 Requirements: Tensorflow >= 2.0 , Python >= 3.6.0
 
