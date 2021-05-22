@@ -4,7 +4,7 @@
 #### This is a tensorflow 2 version of CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features 
 
 ## Issue history
--  Recognized as a third-party implementation by the original author. (https://github.com/clovaai/CutMix-PyTorch)
+- <strong> (2020.9) Recognized as a third-party implementation by the original author. (https://github.com/clovaai/CutMix-PyTorch) </strong>
 - (2020.8.11) Saved_Model has been replaced with Checkpoint due to the above unresolved investigation.
 - (2020.7.6) I've raised an issue on a possibe Saved_Model API bug, and it is under investigation by the Tensorflow team.    (https://github.com/tensorflow/tensorflow/issues/41045) 
 
